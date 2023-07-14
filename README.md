@@ -4,3 +4,5 @@ This repository contains **examples** of code used in development of the Malaria
 **Daniel C Browning Jr, "A Malaria Risk Model for the Mediterranean in Antiquity Based on the Historical Carta della Malaria dell’Italia," *The Journal of Maps* (forthcoming).** 
 
 All code examples assume use with ArcGIS Pro 3 (run in the Python window) with established layers. 
+
+Contact: dbrowning@prcc.edu
