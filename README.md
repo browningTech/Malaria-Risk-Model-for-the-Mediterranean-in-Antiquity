@@ -6,3 +6,5 @@ This repository contains **examples** of code used in development of the Malaria
 All code examples assume use with ArcGIS Pro 3 (run in the Python window) with established layers. 
 
 Contact: dbrowning@prcc.edu
+
+2024-06-25: added Torelli map malaria zones raster for GIS use
