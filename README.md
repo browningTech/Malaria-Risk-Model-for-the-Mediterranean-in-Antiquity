@@ -7,4 +7,4 @@ All code examples assume use with ArcGIS Pro 3 (run in the Python window) with e
 
 Contact: dbrowning@prcc.edu
 
-2024-06-25: added Torelli map malaria zones raster for GIS use
+2024-06-25: added Torelli map malaria zones raster and geodatabase for GIS use.
