@@ -1,7 +1,7 @@
 # Malaria-Risk-Model-for-the-Mediterranean-in-Antiquity
 This repository contains **examples** of code used in development of the Malaria Risk Model for the Mediterranean in Antiquity. The model and its development are described in:
 
-**Daniel C Browning Jr, "A Malaria Risk Model for the Mediterranean in Antiquity Based on the Historical *Carta della Malaria dell’Italia*," *Journal of Maps* (forthcoming).** 
+Browning Jr, Daniel C. 2023. “A Malaria Risk Model for the Mediterranean in Antiquity Based on the Historical Carta Della Malaria Dell’Italia.” Journal of Maps 19 (1): 2242724. https://doi.org/10.1080/17445647.2023.2242724.
 
 All code examples assume use with ArcGIS Pro 3 (run in the Python window) with established layers. 
 
