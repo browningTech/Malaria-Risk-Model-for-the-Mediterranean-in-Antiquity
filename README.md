@@ -5,6 +5,6 @@ Browning Jr, Daniel C. 2023. “A Malaria Risk Model for the Mediterranean in An
 
 All code examples assume use with ArcGIS Pro 3 (run in the Python window) with established layers. 
 
-Contact: dbrowning@prcc.edu
+Contact: daniel.browning@usm.edu
 
 2024-06-25: added Torelli map malaria zones raster and geodatabase for GIS use.
